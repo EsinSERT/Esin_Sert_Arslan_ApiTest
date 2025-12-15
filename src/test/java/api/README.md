@@ -77,4 +77,4 @@ Proje, Test Automation – API görevi kapsamında hazırlanmıştır.
 
 ## Geliştirici
 
-Esin Sert
+Esin Sert.
